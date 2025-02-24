@@ -28,3 +28,25 @@ git clone https://github.com/Nagasaida1/python_otp_email_verification.git
    sender_email = "your-email@gmail.com"  # Replace with your email
    sender_password = "your-app-specific-password"  # Replace with your app-specific password
 ```
+
+### 3. Run the Project
+```bash
+python otp_verification.py
+```
+
+### Screenshots
+
+## Main Window:
+![1 1](https://github.com/user-attachments/assets/7c13bedc-6f5d-4c46-923a-076e5c985dc0)
+
+## OTP Sent Successfully:
+ ![2](https://github.com/user-attachments/assets/88cf83f6-5040-4c04-af6d-aa1c1c3c18cc)
+
+## OTP Verified:
+ ![3](https://github.com/user-attachments/assets/f3cbb69f-bddf-457e-9b24-cee2c0b02177)
+
+ 
+
+
+
+
