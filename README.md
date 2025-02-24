@@ -18,9 +18,12 @@ Before running the project, ensure you have the following:
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+### Clone the Repository
 Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/Nagasaida1/python_otp_email_verification.git
-
-
+```
+### 2. Configure Email Settings
+   sender_email = "your-email@gmail.com"  # Replace with your email
+   sender_password = "your-app-specific-password"  # Replace with your app-specific password
+  
